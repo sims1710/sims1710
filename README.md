@@ -5,6 +5,6 @@ I always had an interest in computing. I started using computers when I was 2 ye
 You can see my top-used languages here:
 
 
-
+[!Simriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sims1710)](https://github.com/sims1710/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
