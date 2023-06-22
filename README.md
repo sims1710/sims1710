@@ -3,7 +3,7 @@
 </p>
 
 <p align="centre"> 
-Hi! I am Simriti ☺️🌼✨ </p>
+  Hi! I am Simriti ☺️🌼✨ </p>
 <p align="centre">
   
   I always had an interest in computing. I started using computers when I was 2 years old to play the Magic School Bus Game. Now, I am learning Cybersecurity at SUTD to protect the world of computers against cyberattacks. To me, it sounds like a fantasy game where I am the heroine defeating the villains to protect the kingdom 😊😂 You can follow my adventure here on GitHub! So far, I have been learning a lot about computers and coding and have been having a lot of fun along the way! I hope I can keep expanding my repertoire forever!
@@ -15,7 +15,7 @@ Hi! I am Simriti ☺️🌼✨ </p>
 
 <p align="center">
   <a href="https://github.com/sims1710/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sims1710&layout=compact&langs_count=8&card_width=320" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sims1710&layout=compact&langs_count=8&card_width=320"/>
   </a>
 </p>
 
