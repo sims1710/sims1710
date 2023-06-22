@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  You can see my top-used languages here:
+  You can see my stats here:
 </p>
 
 <p align="center">
