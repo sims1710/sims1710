@@ -2,11 +2,6 @@
   <img src="https://github.com/sims1710/sims1710/assets/87659722/db2613a4-e318-42bc-90ba-cc63fb7b6f86" />
 </p>
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/sims1710/sims1710/assets/87659722/230ef6a3-7a8e-457a-9246-7408a3cc9e53" type="video/mp4">
-</video>
-
-
 <p align="center"> 
   Hi! I am Simriti ☺️🌼✨ 
 </p>
