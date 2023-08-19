@@ -29,3 +29,5 @@
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sims1710"/></a>
 </p>
+
+$ docker-compose run php /var/www/html/bin/build -v
