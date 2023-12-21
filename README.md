@@ -14,18 +14,11 @@
   You can see my tech stack here:
 </p>
 
-
-[![Simriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sims1710)](https://github.com/sims1710/github-readme-stats)
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sims1710&layout=compact)
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sims1710" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sims1710&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sims1710" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sims1710&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
