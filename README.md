@@ -25,3 +25,5 @@
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </div>
+
+[![Simriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sims1710)](https://github.com/sims1710/github-readme-stats)
