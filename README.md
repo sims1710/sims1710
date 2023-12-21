@@ -14,10 +14,10 @@
   You can see my tech stack here:
 </p>
 
-<div align="center">
-[![Simriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sims1710)](https://github.com/sims1710/github-readme-stats)
-</div>
 
-<div align="center">
+[![Simriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sims1710)](https://github.com/sims1710/github-readme-stats)
+
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sims1710&layout=compact)
-</div>
+
